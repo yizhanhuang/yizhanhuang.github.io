@@ -36,4 +36,29 @@
     
   </entry>
   
+  <entry>
+    <title>postName</title>
+    <link href="http://example.com/2013/12/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2013/12/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2013-12-02T07:30:16.000Z</published>
+    <updated>2023-04-08T10:02:08.139Z</updated>
+    
+    <content type="html"><![CDATA[<p>以下是正文</p><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
+    
+    
+    <summary type="html">附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面</summary>
+    
+    
+    
+    <category term="默认分类" scheme="http://example.com/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
+    
+    
+    <category term="tag1" scheme="http://example.com/tags/tag1/"/>
+    
+    <category term="tag2" scheme="http://example.com/tags/tag2/"/>
+    
+    <category term="tag3" scheme="http://example.com/tags/tag3/"/>
+    
+  </entry>
+  
 </feed>
