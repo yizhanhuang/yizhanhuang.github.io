@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://yizhanhuang.github.io/categories/index.html</loc>
-    
-    <lastmod>2023-04-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://yizhanhuang.github.io/about/index.html</loc>
     
     <lastmod>2023-04-08</lastmod>
@@ -30,6 +21,15 @@
   
   <url>
     <loc>https://yizhanhuang.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-04-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yizhanhuang.github.io/categories/index.html</loc>
     
     <lastmod>2023-04-08</lastmod>
     
