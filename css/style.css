@@ -170,7 +170,7 @@ code {
   width: 40px;
   height: 40px;
   background-repeat: no-repeat;
-  background-image: url("/logo.png");
+  background-image: url("css/images/logo.png");
   background-size: 40px 40px;
 }
 #container {
@@ -2343,7 +2343,4 @@ ol.toc {
 .highlight .code .type,
 .highlight .code .selector-id {
   font-weight: bold;
-}
-#profile {
-  float: right;
 }
