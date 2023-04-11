@@ -6,7 +6,7 @@
   <link href="https://yizhanhuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://yizhanhuang.github.io/"/>
-  <updated>2023-04-11T01:45:55.220Z</updated>
+  <updated>2023-04-11T01:50:19.496Z</updated>
   <id>https://yizhanhuang.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://yizhanhuang.github.io/2023/04/11/%E5%9C%A8java%E4%B8%AD%E5%A6%82%E4%BD%95%E6%A8%A1%E6%8B%9Fhttp%E8%AF%B7%E6%B1%82/"/>
     <id>https://yizhanhuang.github.io/2023/04/11/%E5%9C%A8java%E4%B8%AD%E5%A6%82%E4%BD%95%E6%A8%A1%E6%8B%9Fhttp%E8%AF%B7%E6%B1%82/</id>
     <published>2023-04-11T01:32:15.000Z</published>
-    <updated>2023-04-11T01:45:55.220Z</updated>
+    <updated>2023-04-11T01:50:19.496Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="HttpPost和CloseableHttpClient"><a href="#HttpPost和CloseableHttpClient" class="headerlink" title="HttpPost和CloseableHttpClient"></a>HttpPost和CloseableHttpClient</h3><p>1.CloseableHttpClient实现了HttpClient, Closeable</p><p>具体代码：</p><p><img src="/../images/p1.png"></p><p>2.post中设置请求体</p><p><img src="/../images/p2.png"></p><p>3.设置连接参数</p><p><img src="/../images/p3.png"></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="HttpPost和CloseableHttpClient"><a href="#HttpPost和CloseableHttpClient" class="headerlink" title="HttpPost和CloseableHttpClient"></a>HttpPost和CloseableHttpClient</h3><ol><li>CloseableHttpClient实现了HttpClient, Closeable</li></ol><p>具体代码：</p><p><img src="/../images/p1.png"></p><ol start="2"><li>post中设置请求体</li></ol><p><img src="/../images/p2.png"></p><ol start="3"><li>设置连接参数</li></ol><p><img src="/../images/p3.png"></p>]]></content>
     
     
       
@@ -39,28 +39,6 @@
     <category term="java" scheme="https://yizhanhuang.github.io/tags/java/"/>
     
     <category term="http" scheme="https://yizhanhuang.github.io/tags/http/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>欢迎访问十三月的WiKi空间</title>
-    <link href="https://yizhanhuang.github.io/2023/04/10/welcome%20to%20%E5%8D%81%E4%B8%89%E6%9C%88%20wiki/"/>
-    <id>https://yizhanhuang.github.io/2023/04/10/welcome%20to%20%E5%8D%81%E4%B8%89%E6%9C%88%20wiki/</id>
-    <published>2023-04-09T16:29:55.765Z</published>
-    <updated>2023-04-09T16:40:09.764Z</updated>
-    
-    <content type="html"><![CDATA[<p>本站用于记录工作和平时学习当中的一些笔记或者工作里的心得体会，主要内容包括<strong>后端开发，数据分析</strong>，机器学习等  </p><p><img src="/../../images/duck.png"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;本站用于记录工作和平时学习当中的一些笔记或者工作里的心得体会，主要内容包括&lt;strong&gt;后端开发，数据分析&lt;/strong&gt;，机器学习等  &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/../../images/duck.png&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
     
   </entry>
   
