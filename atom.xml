@@ -6,7 +6,7 @@
   <link href="https://yizhanhuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://yizhanhuang.github.io/"/>
-  <updated>2023-04-11T01:44:17.186Z</updated>
+  <updated>2023-04-11T01:45:55.220Z</updated>
   <id>https://yizhanhuang.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yizhanhuang.github.io/2023/04/11/%E5%9C%A8java%E4%B8%AD%E5%A6%82%E4%BD%95%E6%A8%A1%E6%8B%9Fhttp%E8%AF%B7%E6%B1%82/"/>
     <id>https://yizhanhuang.github.io/2023/04/11/%E5%9C%A8java%E4%B8%AD%E5%A6%82%E4%BD%95%E6%A8%A1%E6%8B%9Fhttp%E8%AF%B7%E6%B1%82/</id>
     <published>2023-04-11T01:32:15.000Z</published>
-    <updated>2023-04-11T01:44:17.186Z</updated>
+    <updated>2023-04-11T01:45:55.220Z</updated>
     
     <content type="html"><![CDATA[<h3 id="HttpPost和CloseableHttpClient"><a href="#HttpPost和CloseableHttpClient" class="headerlink" title="HttpPost和CloseableHttpClient"></a>HttpPost和CloseableHttpClient</h3><p>1.CloseableHttpClient实现了HttpClient, Closeable</p><p>具体代码：</p><p><img src="/../images/p1.png"></p><p>2.post中设置请求体</p><p><img src="/../images/p2.png"></p><p>3.设置连接参数</p><p><img src="/../images/p3.png"></p>]]></content>
     
