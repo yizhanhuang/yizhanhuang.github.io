@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yizhanhuang.github.io/2023/04/14/yong-java-xie-yi-ge-pa-chong-pa-qu-zhong-guo-ping-an-gu-jie-de-xin-xi/</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yizhanhuang.github.io/2023/04/10/index/</loc>
     
     <lastmod>2023-04-12</lastmod>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>https://yizhanhuang.github.io/</loc>
-    <lastmod>2023-04-13</lastmod>
+    <lastmod>2023-04-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,14 +66,35 @@
   
   <url>
     <loc>https://yizhanhuang.github.io/tags/java/</loc>
-    <lastmod>2023-04-13</lastmod>
+    <lastmod>2023-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yizhanhuang.github.io/tags/http/</loc>
-    <lastmod>2023-04-13</lastmod>
+    <lastmod>2023-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yizhanhuang.github.io/tags/%E7%88%AC%E8%99%AB/</loc>
+    <lastmod>2023-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yizhanhuang.github.io/tags/jsoup/</loc>
+    <lastmod>2023-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yizhanhuang.github.io/tags/%E8%82%A1%E4%BB%B7/</loc>
+    <lastmod>2023-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -73,7 +103,7 @@
   
   <url>
     <loc>https://yizhanhuang.github.io/categories/java/</loc>
-    <lastmod>2023-04-13</lastmod>
+    <lastmod>2023-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
